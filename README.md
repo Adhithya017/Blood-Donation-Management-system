@@ -28,7 +28,7 @@ Follow these steps to get the project up and running on your local machine.
 
 First, clone this GitHub repository to your local machine using Git.
 
-```bash
+
 git clone [https://github.com/your-username/Blood-Donation-Management-system.git](https://github.com/your-username/Blood-Donation-Management-system.git)
 
 2. Set Up the Project Folder
