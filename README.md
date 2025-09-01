@@ -75,8 +75,6 @@ For any questions or suggestions regarding the project, feel free to contact me.
 
 <img width="1909" height="1071" alt="Screenshot 2025-09-01 160339" src="https://github.com/user-attachments/assets/932d884f-753e-47e0-bb62-ef117b17e005" />
 
-<img width="1909" height="1071" alt="Screenshot 2025-09-01 160339" src="https://github.com/user-attachments/assets/b4d275ce-1d2e-47f9-8554-90576ac1d309" />
-
 <img width="1904" height="1065" alt="Screenshot 2025-09-01 160421" src="https://github.com/user-attachments/assets/aaa3d54a-a4b8-4ea4-8428-08dfd966c5de" />
 
 <img width="1917" height="971" alt="Screenshot 2025-09-01 160438" src="https://github.com/user-attachments/assets/e7d17182-30b2-4280-aab4-33ae2998f15f" />
